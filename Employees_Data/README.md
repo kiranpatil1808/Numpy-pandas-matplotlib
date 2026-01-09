@@ -27,6 +27,7 @@ Filled missing Salary values using the average salary.
 2️⃣ Removing Duplicates
 
 Duplicate employee records were identified and removed to ensure data consistency.
+
 📈 Data Analysis & Insights
 
 ✔ Salary Statistics
