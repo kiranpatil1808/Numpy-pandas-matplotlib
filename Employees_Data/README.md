@@ -23,6 +23,7 @@ Python
 Replaced missing Name, City, Department, and Performance values with "Unknown".
 Filled missing Age values using the mean age.
 Filled missing Salary values using the average salary.
+
 2️⃣ Removing Duplicates
 
 Duplicate employee records were identified and removed to ensure data consistency.
@@ -33,13 +34,12 @@ Calculated average, minimum, and maximum salary of employees.
 
 ✔ Department-Wise Analysis
 Counted number of employees per department.
-
 Computed average salary per department.
+
 ✔ Location-Wise Analysis
-
 Counted employees based on city.
-✔ Top Earners
 
+✔ Top Earners
 Identified the top 5 highest-paid employees in the organization.
 
 💾 Output
