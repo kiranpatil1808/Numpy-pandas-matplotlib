@@ -54,7 +54,6 @@ The same analytical pipeline is reused across six teams, demonstrating scalable 
 • Scalable analytics pipeline
 
 
-
 🛠️ Technologies Used
 
 1) Python 3
@@ -62,7 +61,6 @@ The same analytical pipeline is reused across six teams, demonstrating scalable 
 3) NumPy
 4) Matplotlib
 5) mplsoccer
-
 
 
 📈 Data Notes
@@ -89,5 +87,4 @@ The same analytical pipeline is reused across six teams, demonstrating scalable 
 • Interactive dashboards (Plotly / Streamlit)
 
 👤 Author
-
 Kiran Patil
